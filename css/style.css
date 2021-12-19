@@ -1,0 +1,137 @@
+/*CSS MENU GERANT RESTAURANT*/
+body 
+{
+	background-image:url(../img/4.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:cover;
+
+}
+
+.menu 
+
+{
+	font-size: 24px;
+	font-weight: bold;
+	color:#0000FF;
+	margin-bottom:50px;
+	padding:20px;
+	background-color:#ff0000c7
+}
+
+
+.menu a
+{
+	text-decoration:none;
+	margin-right:20px;
+	color:#FFFFFF;
+
+}
+
+.menu a:hover
+{
+	color:#0000FF;
+
+}
+
+.menu a visited
+{
+	color:#3333FF;
+}
+
+.menuelt a:hover
+{
+
+	color:#FFFFFF;
+	border-bottom-style:solid;
+	border-bottom-width:medium;
+	border-bottom-color:#0000FF;
+
+}
+
+.menuelt
+{
+	display:inline;
+}
+/* FIN CSS DES FORMULAIRES*/
+
+/* DEBUT CSS DES FORMULAIRES*/
+ .info
+ {
+ padding: 12px 15px;
+    border-bottom:2px solid #ff0000c7;
+    background: #fff;
+ }
+ .etiquette
+ {
+ color:#FFFFFF;
+
+ 
+ }
+.Style3 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.btnenreg{
+	 color: #fff;
+    background: #ff0000c7;
+    border: none;
+    padding: 10px 30px;
+     cursor: pointer;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+	font-weight:bolder;
+	margin-top:auto;
+
+}
+.container{
+ 	width: 35%;
+    margin:5px auto;
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    padding: 50px;
+	table-layout: fixed;
+}
+.spann
+{
+	color:#ff0000c7;
+	background-color:#000099;
+}
+/*Tableau pour les listes*/
+thead
+{
+	
+	background-color:#ff0000c7;
+	color:#FFFFFF;
+	padding: 12px 15px;
+	
+	
+	
+}
+
+ 
+ tbody a
+ {
+ 	text-decoration:none;
+	color:#000000;
+	padding:10px 10px;
+	
+	
+ }
+  
+ .titreliste
+ {
+ 	color:#ff0000c7;
+	padding:10px;
+	font-size:16px;
+	
+
+	
+	
+	
+ }
+
+
+
